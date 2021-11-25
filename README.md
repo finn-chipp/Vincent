@@ -1,5 +1,5 @@
 # Vincent
-A music playing voice assistant prototype.
+A music playing voice assistant prototype.\n
 commands:
   1) "play <song>"     plays the song
   2) "pause"           pauses the song
